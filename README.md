@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysiek</h1>
-<h3 align="center">A frontend developer from Poland 🇵🇱</h3>
+<h3 align="center">A frontend developer from Poland</h3>
+
+⚠️ Please do not treat anything here as anything more than 💩practice projects💩, I shall no longer intend to reference these in any portfolio nor return to them for perfecting, only keeping them here as an artifact of my ongoing learning process.  "ruby-practice" repo is the closest to reflect how I write code at work.⚠️
 
 - 🔭 I’m currently working on **being able to setup by own backend!**
 
@@ -7,9 +9,7 @@
 
 - 👯 I’m looking to collaborate on **all kinds of web-app projects.**
 
-- 📫 How to reach me **krzysztof.tokarski96@gmail.com**
-
-- ⚠️ Please do not treat anything here as anything more than purely practice projects - I currently don't have a repo that would reflect the quality of code I write at work, working towards creating portfolio-worthy projects in the near future. 
+- 📫 Reach me here => **krzysztof.tokarski96@gmail.com**
 
 <div align="center">
 <a href="https://github.com/krzysztof-tokarski" target="_blank">
