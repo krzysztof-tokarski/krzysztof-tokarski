@@ -8,6 +8,9 @@
 - 👯 I’m looking to collaborate on **all kinds of web-app projects.**
 
 - 📫 How to reach me **krzysztof.tokarski96@gmail.com**
+
+- ⚠️ Please do not treat anything here as anything more than purely practice projects - I currently don't have a repo that would reflect the quality of code I write at work, working towards creating portfolio-worthy projects in the near future. 
+
 <div align="center">
 <a href="https://github.com/krzysztof-tokarski" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
