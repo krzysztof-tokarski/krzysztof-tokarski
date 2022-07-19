@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **being able to setup by own backend!**
 
-- 🌱 I’m currently learning **NestJS.**
+- 🌱 I’m currently learning **Node and NestJS.**
 
 - 👯 I’m looking to collaborate on **all kinds of web-app projects.**
 
