@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **being able to setup by own backend!**
 
-- 🌱 I’m currently learning **Node and NestJS.**
+- 🌱 I’m currently learning **😠MEAN STACK😠**
 
-- 👯 I’m looking to collaborate on **all kinds of web-app projects.**
+- 👯 I’m looking to collaborate on **all kinds of web-app projects**
 
 - 📫 Reach me here => **krzysztof.tokarski96@gmail.com**
 
