@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **being able to setup by own backend!**
 
-- 🌱 I’m currently learning **😠MEAN STACK😠**
+- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node)**
 
 - 👯 I’m looking to collaborate on **all kinds of web-app projects**
 
