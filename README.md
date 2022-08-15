@@ -33,6 +33,7 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50" height="50"/>
+<img src="https://www.thymeleaf.org/images/thymeleaf.png" alt=thymeleaf" width="50" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 </div>
