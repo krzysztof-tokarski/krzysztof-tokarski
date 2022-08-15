@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node)**
 
-- 👨‍💻 Currently working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>, to learn the former.
+- 👨‍💻 Currently working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>, to learn the former (as well as practice/learn stuff like NX, Tailwind, RXJS, or NGRX.
 
 - 👯 I’m looking to collaborate on **all kinds of web-app projects**
 
