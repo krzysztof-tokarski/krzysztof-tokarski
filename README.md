@@ -65,15 +65,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-
-
-
-
 </td></tr></table>  
 
 <br/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztof-tokarski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=krzysztof-tokarski)
+
 
 
   
