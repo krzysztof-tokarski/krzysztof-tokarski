@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **being able to setup by own backend!**
 
-- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node)**
+- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node)** and trying out Java, to later learn Spring.
 
 - 👨‍💻 Currently working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>, to learn the former (as well as practice/learn stuff like NX, RXJS, or NGRX).
 
