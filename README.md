@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **being able to setup by own backend!**
 
-- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node**).  To avoid burnout from being frontend dev both at work and my freetime I've started to split my attention towards learning Java (currently going through MOOC at University of Helsinki, about to eventually start working on learning Spring).
+- 👨‍💻 Currently (slowly) working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>.  I halted it do some extra studying first (please see below).
 
-- 👨‍💻 Currently working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>, to learn the former (as well as practice/learn stuff like NX, RXJS, or NGRX).
+- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node**), as well as going through Java MOOC at University at Helsinki, likely to be followed by their Fullstack Open course.
 
 - 👯 I’m looking to collaborate on **all kinds of web-app projects**
 
