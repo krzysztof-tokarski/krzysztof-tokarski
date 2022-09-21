@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently (slowly) working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>.  I halted it do some extra studying first (please see below).
 
-- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node**), as well as going through Java MOOC at University at Helsinki, likely to be followed by their Fullstack Open course.
+- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node**), as well as going through Java MOOC at University at Helsinki (liking it so far!, may try their full stack open at some point, at least some parts)
 
 - 👯 I’m looking to collaborate on **all kinds of web-app projects**
 
