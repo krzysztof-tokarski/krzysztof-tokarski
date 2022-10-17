@@ -3,14 +3,6 @@
 <h4 align="center">⚠️ ATTENTION ⚠️ </h4>
 <h5 align="center">Please do not treat anything here as anything more than 💩practice projects💩, I shall no longer intend to reference these in any portfolio nor return to them for perfecting, only keeping them here as an artifact of my ongoing learning process.  "ruby-practice" repo is the closest to reflect how I write code at work.</h5>
 
-- 🔭 I’m currently working on **being able to setup by own backend!**
-
-- 👨‍💻 Currently (slowly) working on <a href="https://github.com/krzysztof-tokarski/project-ecommerce">**project ecommerce**</a>.  I halted it do some extra studying first (please see below).
-
-- 🌱 I’m currently learning **MANN STACK (Mongo, Angular, NestJs, Node**), as well as going through Java MOOC at University at Helsinki (liking it so far!, may try their full stack open at some point, at least some parts)
-
-- 👯 I’m looking to collaborate on **all kinds of web-app projects**
-
 - 📫 Reach me here => **krzysztof.tokarski96@gmail.com**
 
 <div align="center">
