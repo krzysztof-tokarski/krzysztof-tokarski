@@ -60,8 +60,6 @@
 </td></tr></table>  
 
 <br/>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztof-tokarski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                     
 ![](https://komarev.com/ghpvc/?username=krzysztof-tokarski)
 
