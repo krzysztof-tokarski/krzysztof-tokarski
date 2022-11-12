@@ -1,7 +1,7 @@
 <h1 align="center">Krzysztof Tokarski</h1>
 <h3 align="center">A frontend developer from Poland</h3>
 <h4 align="center">⚠️ ATTENTION ⚠️ </h4>
-<h5 align="center">Please do not treat anything here as anything more than 💩practice projects💩, I shall no longer intend to reference these in any portfolio nor return to them for perfecting, only keeping them here as an artifact of my ongoing learning process.  "ruby-practice" repo is the closest to reflect how I write code at work.</h5>
+<h5 align="center">Please do not treat anything here as anything more than 💩practice projects💩, I shall no longer intend to reference these in any portfolio nor return to them for perfecting, only keeping them here as an artifact of my ongoing learning process.  "Extendable" repo is the closest to reflect how I write code at work.</h5>
 
 - 📫 Reach me here => **krzysztof.tokarski96@gmail.com**
 
