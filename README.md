@@ -1,10 +1,3 @@
-<h1 align="center">Krzysztof Tokarski</h1>
-<h3 align="center">A frontend developer from Poland</h3>
-<h4 align="center">⚠️ ATTENTION ⚠️ </h4>
-<h5 align="center">Please do not treat anything here as anything more than 💩practice projects💩, I shall no longer intend to reference these in any portfolio nor return to them for perfecting, only keeping them here as an artifact of my ongoing learning process.  "Extendable" repo is the closest to reflect how I write code at work.</h5>
-
-- 📫 Reach me here => **krzysztof.tokarski96@gmail.com**
-
 <div align="center">
 <a href="https://github.com/krzysztof-tokarski" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
